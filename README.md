@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **.Net**
+- 🌱 I’m currently learning **.Net Core**
 
 - 📫 How to reach me **726gaurav@gmail.com**
 
