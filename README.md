@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **.Net Core**
+- 🌱 I’m currently learning **Java and Springboot**
 
 - 📫 How to reach me **726gaurav@gmail.com**
 
