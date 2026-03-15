@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Java and Springboot**
 
-- 📫 How to reach me **726gaurav@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gaurav726/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gaurav-kumar-singh-3a82911a5/" height="30" width="40" /></a>
